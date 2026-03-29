@@ -4,7 +4,7 @@ import { FaShoppingCart } from 'react-icons/fa';
 
 const Navbar = () => {
     return (
-        <div className='navbar p-3 max-w-11/12 mx-auto'>
+        <div className='navbar p-3'>
             <div className='navbar-start'>
                 <div className='flex items-center gap-2 font-bold text-xl md:text-2xl'>
                     <img className='w-15' src={navLogo} alt="" />
@@ -20,7 +20,7 @@ const Navbar = () => {
                 </ul>
             </div>
             <div className='navbar-end items-center'>
-                <div className='flex items-center gap-3'>
+                <div className='flex items-center gap-2'>
                     <div className='btn btn-ghost text-red-500 rounded-full text-xl'>
                         <FaShoppingCart />
                     </div>

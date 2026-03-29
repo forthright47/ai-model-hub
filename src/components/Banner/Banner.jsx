@@ -19,7 +19,7 @@ const Banner = () => {
                         </span>
                     </h1>
                     <p className="text-lg text-zinc-700 max-w-lg">
-                        Experience the full spectrum of frontier intelligence — all the most
+                        Experience the full spectrum of frontier intelligence - all the most
                         advanced AI models, unified under a single, powerful subscription.
                     </p>
 

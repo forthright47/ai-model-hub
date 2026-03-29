@@ -46,7 +46,7 @@ ai-model-hub/
 │   │   ├── Footer.jsx        # Footer section
 │   │   ├── ModelCard.jsx     # Individual model card
 │   │   ├── Models.jsx        # Model listing grid
-│   │   └── NavBar.jsx        # Navigation bar
+│   │   └── Navbar.jsx        # Navigation bar
 │   ├── App.jsx               # Main application component
 │   ├── index.css             # Global CSS (Tailwind + DaisyUI)
 │   └── main.jsx              # React entry point
@@ -171,7 +171,7 @@ const handleRemove = (id) => {
 
 ---
 
-### **5.5. `NavBar.jsx` (Navigation)**
+### **5.5. `Navbar.jsx` (Navigation)**
 - **Purpose**: Provides global navigation with:
   - Logo, menu items (`Home`, `About`, `Services`, `Contact`), and a CTA button.
 - **Key Features**:

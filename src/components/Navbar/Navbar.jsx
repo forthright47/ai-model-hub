@@ -24,7 +24,7 @@ const Navbar = () => {
                     <div className='btn btn-ghost text-red-500 rounded-full text-xl'>
                         <FaShoppingCart />
                     </div>
-                    <a className="btn bg-red-500 rounded-full text-white text-lg font-medium">Get Started</a>
+                    <a className="btn bg-red-500 rounded-full text-white text-lg font-medium py-6 px-5">Get Started</a>
                 </div>
             </div>
         </div>
